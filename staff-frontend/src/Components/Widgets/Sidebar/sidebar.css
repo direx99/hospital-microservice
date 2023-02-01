@@ -1,0 +1,50 @@
+
+
+
+.sidebar{
+    width: 230px;
+    height: 600px;
+    background-color: #fff;
+    padding-top: 70px;
+}
+.sidebarobject{
+   margin: 5px 10px 5px 10px ;
+    width: 180px;
+    height: 40px;
+    border-radius: 30px;
+    align-items: center;
+}
+.sidebartitle{
+    padding-left: 15px;
+    text-align: left;
+    font-size: 12pt;
+    font-weight: 500;
+    cursor: pointer;
+   
+
+}
+.homeicon{
+    color: #858CAD;
+    padding-left: 15px;
+    cursor: pointer;
+
+
+}
+.sidepanelhome{
+    width: 6px;
+    background-color: #FF5E15;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.homeicon:hover,.sidebartitle:hover{
+    opacity: 1;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.sidebarobject:hover{
+background-color: #F6F1FE;
+}

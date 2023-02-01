@@ -1,0 +1,63 @@
+.topbarcontainer{
+    margin: 10px;
+    width: 100;
+    height: 60px;
+    
+}
+
+.topbartitle{
+    justify-content: space-between;
+}
+
+.titlebar{
+    width: 200px;
+    height: 60px;
+}
+
+.topbarmaintitle{
+    font-size: 20pt;
+    font-weight: 600;
+    color: #3A3878;
+    margin: 20px 0px 0px 20px;
+}
+
+.homeserachbar{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 370px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 20px;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.searchtitle{
+    color: #858CAD;
+    font-weight: 500;
+    font-size: 11pt;
+}
+
+.searchicon{
+    color: #858CAD;
+
+}
+.profileicons{
+    margin-top: 15px;
+    justify-content: center;
+    padding-right: 20px;
+    align-items: center;
+    
+}
+.drname{
+font-size: 14pt;
+font-weight: 500;
+color: #3F3B7A;
+
+}
+
+.emailicon{
+    color: #858CAD;
+}

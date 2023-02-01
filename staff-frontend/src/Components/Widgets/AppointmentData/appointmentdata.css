@@ -1,0 +1,46 @@
+.appointmentdata{
+    margin: 10px;
+    width: 1100px;
+    height: 150px;
+   
+}
+
+.appointmentbar{
+    justify-content: space-between;
+    padding: 20px 20px 10px 20px;
+}
+.totaldatabox{
+    width: 250px;
+    height: 80px;
+    background-color: #FAAB88;
+    border-radius: 10px 10px 0px 0px;
+  
+}
+.totaldataboxup{
+    margin-top: 5px;
+    width: 250px;
+    height: 30px;
+    background-color: #FAAB88;
+    border-radius: 0px 0px 10px 10px;
+   
+}
+.completeddatabox{
+    width: 250px;
+    height: 80px;
+    background-color: #13DC96;
+    border-radius: 10px 10px 0px 0px;
+}
+.completeddataboxup{
+    margin-top: 5px;
+    width: 250px;
+    height: 30px;
+    background-color: #13DC96;
+    border-radius: 0px 0px 10px 10px;
+   
+}
+.canceleddatabox{
+    width: 22%;
+    height: 80px;
+    background-color: #fff;
+    border-radius: 10px 10px 0px 0px;
+}

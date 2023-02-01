@@ -1,0 +1,66 @@
+.nextpatients {
+    margin-top: 20px;
+    padding-top: 5px;
+    width: 430px;
+    height: 130px;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  }
+  .patientsstack{
+    align-items: center;
+    margin: 15px;
+  }
+  .patientphoto{
+    margin-left: 10px;
+    font-size: 35pt;
+    color: #858CAD;
+  }
+
+  .patientname{
+    margin-left: 20px;
+    font-size: 16pt;
+    font-weight: 500;
+    color: #3f3f62;
+
+  }
+
+  .apoid{
+    text-align: left;
+    margin-left: 20px;
+    color: #1e1e3d;
+  }    
+.apotime{
+  text-align: right;
+    margin-left: 20px;
+    color: #1d1d2b;
+    font-size: 16pt;
+    font-weight: 500;
+    margin-right: -20px;
+
+
+}
+.apodate{
+  text-align: right;
+  margin-left: 20px;
+  color: #3f3f62;
+  font-size: 11pt;
+  font-weight: 500;
+  margin-right: -20px;
+
+
+}  
+.apodatime{
+  margin-right: 20px;
+
+}
+
+.titlenextpatition{
+  color: #525188;
+  font-size: 14pt;
+  font-weight: 600;
+  text-align: justify;
+  margin-left: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

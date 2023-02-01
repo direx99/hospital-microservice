@@ -1,0 +1,39 @@
+
+
+.contentcontainer{
+   margin: 20px;
+    background-color: #F6F7FB;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 25px;
+    height: 700px;
+
+}
+
+.topbar{
+    width: 100%;
+}
+.appheading{
+    font-size: 26pt;
+    text-align: justify;
+    margin-top: 60px;
+    margin-left: 30px;
+    font-weight: 600;
+    color: #3A3878;
+}
+.appsubheading{
+    font-size: 15pt;
+    text-align: justify;
+    margin-top: 4px;
+    margin-left: 30px;
+    font-weight: 500;
+    opacity: 0.4;
+    color: #3A3878;
+}
+
+.apstatus{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+

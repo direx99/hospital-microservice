@@ -1,0 +1,31 @@
+.hotline {
+    margin-top: 40px;
+    padding-top: 5px;
+    width: 150px;
+    height: 100px;
+    border-radius: 20px;
+    padding-left: 10px;
+    background-color: #7ae6bd;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+
+  }
+  .contactlist{
+    margin-left: 30px;
+  }
+  .opdcall{
+    width: 220px;
+    height: 40px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+
+
+  }
+  .opdcallhotline{
+    font-size: 20pt;
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .hotlinenumber{
+    font-weight: 700;
+  }

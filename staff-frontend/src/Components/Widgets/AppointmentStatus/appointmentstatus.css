@@ -1,0 +1,80 @@
+.appointmentstatus {
+  margin-top: 10px;
+  padding-top: 5px;
+  width: 430px;
+  height: 160px;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+
+.progressbar{
+    width: 130px;
+    height: 130px;
+    padding: 10px;
+    font-weight: 700;
+}
+.appointmentstatustitile{
+}
+.todaytitle{
+    color: #3E3D7A;
+    opacity: 0.9;
+    font-size: 15pt;
+    font-weight: 600;
+    margin: 15px 20px 10px 25px;
+text-align: left;
+}
+.bluedot{
+    background-color: #6C84E5;
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    margin: 5px 10px 0px 20px;
+
+}
+.graydot{
+    background-color: #858CAD;
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    margin: 15px 10px 0px 20px;
+
+}
+.bluedottitle{
+    margin: 2px 10px 0px 15px;
+    color: #6C84E5;
+    text-align: justify;
+    font-weight: 500;
+    font-size: 11pt;
+
+}
+.graydottitle{
+    margin: 7px 10px 0px 15px;
+    color: #858CAD;
+    text-align: justify;
+    font-weight: 500;
+    font-size: 11pt;
+
+
+
+}
+
+
+.CircularProgressbar{
+    fill: #6C84E5;
+}
+
+.updatednow{
+    font-size: 9pt;
+    margin-top: 20px;
+    color: #858CAD;
+}
+.totalapo{
+    text-align: justify;
+    margin-left: 20px;
+    font-weight: 500;
+    margin-top: 15px;
+    color: #666666;
+    width: 245px;
+    font-size: 11pt;
+}

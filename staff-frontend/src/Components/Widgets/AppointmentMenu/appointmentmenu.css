@@ -1,0 +1,65 @@
+.newapointbox{
+    width: 260px;
+    height: 120px;
+    background-color: #d4ebff;
+    border-radius: 20px;
+    margin: 20px;
+    margin-left: 20px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+
+.newpaointtitle{
+    color: #053E6F;
+    text-align: left;
+    font-weight: 500;
+    font-size: 13pt;
+}
+.newpaointbtn:hover{
+    opacity: 0.5;
+}
+.newpaointbtn{
+margin-top: 80px;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: #0088ff;
+    margin-left:170px 
+}
+.newpaointbtntitle{
+    font-weight: 500;
+    color: #fff;
+    padding-top: 4px;
+}
+.newapointstatbox{
+    width: 400px;
+    height: 120px;
+    background-color: #f0e7ff;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+
+.apointdetailsmenu{
+    width: 1040px;
+    height: 320px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 0px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+
+.jkgh{
+    text-align: left;
+}
+.iij{
+    text-align: left;
+}
+
