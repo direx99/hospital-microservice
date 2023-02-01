@@ -1,0 +1,204 @@
+.appointmentform {
+  background-color: #fff;
+  margin: 20px;
+  width: 500px;
+  height: 270px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  font-family: 'Roboto';
+  
+
+}
+.alldoctors {
+  background-color: #fff;
+  margin: 20px;
+  width: 550px;
+  height: 570px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+.apointcheck {
+  margin: 20px;
+  width: 500px;
+  height: 260px;
+  border-radius: 20px;
+}
+.nextbtnapoit {
+  background-color: #fff;
+  margin-top: 20px;
+  width: 500px;
+  height: 60px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+
+}
+.checkdocavbltitile {
+  font-size: 25pt;
+  font-weight: 600;
+  color: #3a3878;
+  margin: 30px;
+  align-self: flex-start;
+}
+.doctorselection {
+  margin-bottom: 20px;
+  width: 440px;
+  align-self: flex-start;
+  padding-right: 10px;
+  padding-left: 20px;
+  margin-left: 30px;
+  height: 35px;
+  border-radius: 10px;
+  background-color: #fff;
+  border-color: #3a3878;
+  border-width: 2px;
+  font-size: 12pt;
+  color: #3a3878;
+  font-weight: 500;
+  font-family: 'Roboto';
+
+}
+.datepickerapo {
+  margin-bottom: 20px;
+  width: 120px;
+  align-self: flex-start;
+  padding-right: 10px;
+  padding-left: 20px;
+  margin-left: 30px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: #fff;
+  border-color: #3a3878;
+  border-width: 2px;
+  border-style: solid;
+  font-size: 12pt;
+  color: #3a3878;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.docnamrtitle {
+  align-self: flex-start;
+  margin-left: 40px;
+  margin-bottom: 5px;
+  font-size: 12pt;
+  font-weight: 500;
+  color: #858cad;
+  font-family: 'Roboto';
+
+}
+.selectoption {
+  font-weight: 500;
+  color: #858cad;
+}
+.doctorselection option {
+  margin: 40px;
+  background: rgba(0, 0, 0, 0.3);
+  color: #fff;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
+
+.avblcheckbtn {
+  background-color: #3a3878;
+  width: 277px;
+  height: 30px;
+  margin-top: 22px;
+  margin-left: 27px;
+  border-radius: 20px;
+  color: #fff;
+  font-weight: 600;
+  padding-top: 10px;
+  cursor: pointer;
+}
+.avblcheckbtn:hover{
+    opacity: 0.7;
+}
+
+
+option{
+color: aqua;
+}
+
+.avblicon{
+  align-self: center;
+  padding: 20px;
+
+  color: #007a58;
+}
+.chavblicon{
+  align-self: center;
+  padding: 20px;
+
+  color: #FF6600;
+}
+.notavblicon{
+  
+  color: #ff0202;
+  align-self: center;
+  padding: 20px;
+
+}
+
+.notavbltitile{
+  margin-right: 20px;
+  font-size: 17pt;
+  text-align: left;
+  font-weight: 600;
+  color: #ff0202;
+  
+}
+.avbltitile{
+  margin-right: 20px;
+  font-size: 17pt;
+  text-align: left;
+  font-weight: 600;
+  color: #007a58;
+
+}
+.chavbltitile{
+  margin-right: 20px;
+  font-size: 17pt;
+  text-align: left;
+  font-weight: 600;
+  color: #FF6600;
+
+}
+.notavblcontaoner{
+  width: 100%;
+  height: 160px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  background-color: #fff;
+  
+}
+
+.checkavblcontaonerstack{
+  width: 100%;
+  height: 160px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  background-color: #fff;
+}
+.avblcontaoner{
+  width: 100%;
+  height:  160px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  background-color: #fff;
+}
+
+.notavblcontaonerstack{
+  align-items: center;
+}
+
+.notavbltitilesub{
+  font-size: 12pt;
+  text-align: left;
+  margin-top: 10px;
+  font-weight: 500;
+  color: #515151;
+}
+
+.hhh{
+  width: 200px;
+  height: 200px;
+}

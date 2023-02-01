@@ -1,0 +1,83 @@
+.front{
+    width: 100%;
+    padding: 50px;
+   
+}
+
+.frontimage{
+   width: 400px;
+    border-radius: 20px;
+    
+}
+
+.front-left{
+    width: 50%;
+    align-items: center;
+   
+}
+.front-right{
+    width: 50%;
+}
+
+.subbutton{
+    width: 6px;
+    height: 26px;
+    background-color: #FF5E15;
+    border-radius: 10px;
+}
+
+.subheading{
+    font-size: 14pt;
+    font-weight: 600;
+    color: #053E6F;
+    text-align: left;
+}
+
+.subheadstack{
+    
+    text-align: left;
+
+}
+
+.headingtouch{
+   
+    text-align: left;
+    color: #053E6F;
+    font-size: 40pt;
+    font-weight: 600;
+    
+}
+
+.headingpara{
+    text-align: justify;
+    color: #053E6F;
+    font-size: 12pt;
+}
+
+.apoimentbtn{
+    width: 250px;
+    height: 40px;
+    padding-top: 6px;
+    background-color: #0076FE;
+    border-radius: 10px;
+    margin-top: 40px;
+    color: white;
+    font-weight: 600;
+}
+
+.apoimentbtn:hover{
+    width: 250px;
+    height: 40px;
+    padding-top: 6px;
+    background-color: #0076FE;
+    border-radius: 10px;
+    margin-top: 40px;
+    color: white;
+    font-weight: 600;
+    opacity: 0.8;
+}
+
+
+.link{
+    text-decoration: none;
+}

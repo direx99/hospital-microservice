@@ -1,0 +1,159 @@
+.maincontaner{
+   
+
+    align-items: center;
+    padding: 10px;
+ }
+ .regiterform{
+    margin-top: 20px;
+    width: 600px;
+    height: 800px;
+   
+ }
+
+ .formtitile{
+    font-size: 25pt;
+    font-weight: 600;
+    color: #053E6F;
+    text-align: left;
+    margin-bottom: 20px;
+ }
+
+
+.fnametitle{
+    text-align: left;
+    font-size: 10pt;
+    color: #053E6F;
+    font-weight: 600;
+    opacity: 0.8;
+
+}
+.inputset{
+}
+.inputrow{
+    padding-top: 20px;
+}
+.fnameinput{
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 200px;
+    height: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #053E6F;
+
+}
+.addressinput{
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 492px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #053E6F;
+}
+.genderselect{
+    border-radius: 10px;
+    text-align: center;
+    width: 60px;
+    height: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #053E6F;
+
+}
+.telephoneinput{
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 115px;
+    height: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #053E6F;
+
+}
+.nicinput{
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 145px;
+    height: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #053E6F;
+
+}
+.emailinput{
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 200px;
+    height: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #053E6F;
+}
+.passwordinput{
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 153px;
+    height: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #053E6F;
+}
+.dobinput{
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 160px;
+    height: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #053E6F;
+}
+.cityselect{
+   
+        border-radius: 10px;
+        padding-left: 10px;
+        width: 200px;
+        height: 30px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: #053E6F;
+
+}
+.regionselect{
+   
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 100px;
+    height: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #053E6F;
+
+}
+
+.formclearbutton{
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    margin-right: 75px;
+    background-color: #053E6F;
+color: white;
+font-weight: 600;
+padding-top: 2px;
+}
+.formsubmitbutton{
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    background-color: #053E6F;
+    color: white;
+font-weight: 600;
+padding-top: 2px;
+}
+
+.buttonrow{
+    padding-top: 30px;
+   
+
+}

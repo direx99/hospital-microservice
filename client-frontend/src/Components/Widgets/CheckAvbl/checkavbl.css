@@ -1,0 +1,205 @@
+
+.checkavbl{
+    align-items:center;
+
+}
+.checkavblcontainer{
+    width: 400px;
+    height: 200px;
+    background-color: #fff;
+    ;
+    border-radius: 20px;
+margin-left: 20px;
+    margin: 40px;
+    margin-top: 40px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+.checkavblrescontainer{
+
+    width: 400px;
+    height: 300px;
+    background-color: #DEF5E5;
+    border-radius: 20px;
+    margin: 20px;
+    margin-top: -0px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+    padding: 20px;
+    margin-top: -20px;
+    margin-left: 40px;
+
+}
+
+.docselectclnt{
+    width: 360px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 30px;
+    color: #023C75;
+    border-width: 2px;
+    border-color: #023C75;
+    border-style: solid;
+    font-size: 11pt;
+    font-weight: 500;
+    overflow-y: visible;
+
+}
+.titledocname{
+    text-align: start;
+    margin-left: 10px;
+    font-size: 12pt;
+    font-weight: 500;
+    color: #023C75;
+    margin-top: 20px;
+
+}
+.dateselectclnt{
+    width: 150px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 30px;
+    color: #023C75;
+    border-width: 2px;
+    border-color: #023C75;
+    border-style: solid;
+    font-size: 11pt;
+    font-weight: 500;
+}
+.titledocname{
+    text-align: start;
+    margin-left: 10px;
+    font-size: 12pt;
+    font-weight: 500;
+    color: #023C75;
+    margin-top: 10px;
+}
+.chavbltitle{
+    text-align: start;
+    margin-left: 0px;
+    font-size: 14pt;
+    font-weight:500;
+    color: #8f8f8f;
+}
+.docselectclnt-wrapper{
+
+    max-height: 200px;
+}
+
+.patinetnameavbl{
+    text-align: start;
+    margin-left: 10px;
+    font-size: 14pt;
+    font-weight: 600;
+    color: #023C75;
+    text-transform: capitalize;
+    margin-top: -5px;
+    max-height: 40px;
+
+}
+.patinetnameavbltile{
+    text-align: start;
+    margin-left: 10px;
+    font-size: 10pt;
+    font-weight: 500;
+    color: #8b8b8b;
+    text-transform: capitalize;
+    width: 150px;
+    
+}
+
+.checkavblrescontainerrow{
+    justify-content:space-between;
+}
+.patientdetailsjjk{
+    width: 400px;
+    height: 90px;
+    background-color: #DEF5E5;
+    border-radius: 10px;
+    margin: 20px;
+    margin-top: -0px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+    padding: 20px;
+}
+.cretapointbtn{
+    align-self: center;
+    width: 400px;
+    height: 45px;
+    background-color: #1D675A;
+    border-radius: 10px;
+    padding-top: 4px;
+font-weight: 600;
+    margin: 20px;
+    margin-top: -0px;
+    color: #fff;
+
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+
+.checkavblrescontainerhead{
+    text-align: left;
+    font-size: 14pt;
+    font-weight: 600;
+    color: #1D675A;
+    margin-bottom: 10px;
+}
+.tickicon{
+    margin-top: 4px;
+    margin-left:10px ;
+
+}
+.cnotavblrescontainer{
+    width: 400px;
+    height: 100px;
+    background-color: #ffe4e4;
+    border-radius: 20px;
+    margin: 20px;
+    margin-top: -0px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+    padding: 20px;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+.enterdatacontainer{
+    width: 400px;
+    height: 300px;
+    background-color: #fff4e4;
+    border-radius: 10px;
+    margin: 20px;
+    margin-top: -0px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+    padding: 20px;
+}
+.creatapobtn{
+
+    font-weight: 500;
+    margin-left: 83px;
+    margin-top: 30px;
+    width: 200px;
+    height: 25px;
+    color: #fff;
+    border-radius: 20px;
+    background-color: #1D675A;
+    cursor: pointer;
+}
+
+.creatapobtn:hover{
+
+    opacity: 0.6;
+}
+.alldoccococ{
+}
+
+.cntcreatatitle{
+    font-size: 16pt;
+    text-align: left;
+    font-weight: 600;
+    color: red;
+}
+.selectdataapo{
+    font-size: 12pt;
+    text-align: left;
+    font-weight: 600;
+    color: rgb(66, 66, 66);
+}

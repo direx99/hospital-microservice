@@ -1,0 +1,93 @@
+
+.contaonerstack{
+    justify-content: center;
+}
+.maincontainer{
+
+    margin: 20px;
+    padding: 20px;
+    width: 40%;
+    height: 500px;
+    background-color: #fff;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #0076FE;
+   
+}
+.selectdoctordata{
+align-items: center;
+}
+.leftcontainer{
+    margin: 20px;
+    padding: 20px;
+    width: 30%;
+    height: 500px;
+    background-color: #fff;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #0076FE;
+   
+}
+.docotorselect{
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #0076FE;
+}
+
+.dateselect{
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #0076FE;
+}
+
+.nextbutton,.clearbutton{
+    border-radius: 10px;
+    margin: 10px;
+    width: 190px;
+    height: 30px;
+    text-align: center;
+    padding-top: 2px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 13pt;
+    cursor: pointer;
+}
+
+.nextbutton{
+    background-color: #0076FE;
+}
+.clearbutton{
+    background-color: #FF5E15;
+
+}
+.nextbutton:hover,.clearbutton:hover{
+    opacity: 0.7;
+}
+.guestregform{
+justify-content: center;
+   
+}
+
+.guestform{
+    margin: 20px;
+    padding: 20px;
+    width: 900px;
+    height: 500px;
+    background-color: #fff;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #0076FE;
+
+
+}

@@ -1,0 +1,115 @@
+.allapoinmentscontainer{
+    width: 940px;
+    max-height: 540px;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    font-family: 'roboto';
+    
+}
+
+.allaponttopbar{
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.allapointserachbar{
+    width: 300px;
+    height: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color:  #858CAD;
+    justify-content: space-between;
+    margin-right: 20px;
+
+}
+
+.searchbarinput{
+    margin-top: 3px;
+    height: 20px;
+    border-style: none;
+    margin-left: 10px;
+    font-size: 11pt;
+    width: 85%;
+    background-color: #fff;
+    color: #858CAD;
+    font-weight: 500;
+    font-family: 'roboto';
+
+
+    
+}
+.searchbarinput::placeholder{
+    color: #858CAD;
+    font-weight: 500;
+    font-family: 'roboto';
+}
+
+.searchbarinput:focus{
+    outline: none !important;
+    border-style: none;
+}
+
+.allapointtitle{
+    font-size: 20pt;
+    font-weight: 500;
+    color: #3F3B7A;
+}
+
+.allaponysearchicon{
+    color: #858CAD;
+    margin-right: 6px;
+    margin-top: 1px;
+
+}
+
+.tddata{
+    text-align: left;
+    font-weight: 500;
+}
+
+.jhj{
+    color: #fff;
+    margin-right: 15px;
+}
+.kllk{
+    justify-content: space-between;
+   
+}
+.tblehead{
+    text-align: left;
+}
+
+.apostacksingle{
+    width: 800px;
+    height: 60px;
+   border-style: none;
+   background-color: #ebe9ff;
+    margin: 10px;
+    margin-left: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+
+}
+.jiejf{
+    height: 460px;
+    overflow: scroll;
+    scroll-behavior: inherit;
+}
+.tblehead{
+    font-size: 14pt;
+    font-weight: 700;
+    color: #3F3B7A;
+
+}
+.kllk{
+    margin-left: 20px;
+}
+
+.kllk{
+}
+.tbjhj{
+    text-transform: capitalize;
+    font-family: 'Roboto'
+    
+}

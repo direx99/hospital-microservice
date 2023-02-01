@@ -1,0 +1,139 @@
+.rcpt{
+  height: 1000px;
+  justify-content: center;
+
+}
+.recptcontaoner{
+
+
+justify-content: center;
+}
+
+.aptrec {
+  height: 1000px;
+
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    margin-top: 30px;
+    border-width: 4px;
+    border-style: none;
+    width: 210mm;
+    height: 330px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+    font-family: 'Roboto';
+    margin-bottom:-5px;
+    text-align: left;
+    border-radius: 15px;
+    padding: 30px;
+    padding-right: 50px;
+    
+
+    
+  
+  }
+  .qrcoderecipt{
+    width: 200px;
+    height: 200px;
+    margin-top: -10px;
+  }
+
+  .titlehosrecipt{
+    
+    font-size: 20pt;
+    color: #023C75;
+    font-family: 'roboto';
+    font-weight: 600;
+  }
+
+  .subthosrecipt{
+    margin-top: -10px;
+    font-size: 16pt;
+    color: #767676;
+    font-family: 'roboto';
+    font-weight: 600;
+  }
+  .recpthead{
+    justify-content: space-between;
+  }
+
+  .idhosrecipt{
+    text-align: right;
+    font-size: 20pt;
+    color: #023C75;
+    font-family: 'roboto';
+    font-weight: 600;
+  }
+
+
+  .recbody{
+    justify-content: space-between;
+  }
+
+  .patnamerecpt{
+    margin-top: 10px;
+    text-align: left;
+    font-size: 12pt;
+    color: #6b6b6b;
+    font-family: 'roboto';
+    font-weight: 500;
+    text-transform: capitalize;
+  }
+  .patadrmerecpt{
+    margin-top: -5px;
+    text-align: left;
+    font-size: 12pt;
+    color: #373737;
+    font-family: 'roboto';
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+  .patnamerecpticon{
+    font-size: 15pt;
+    margin-top: 13px;
+    margin-right: 20px;
+    color: #6b6b6b;
+
+  }
+
+  .ptdtsls{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 13pt;
+    color: #585858;
+    font-family: 'roboto';
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+
+  .apodetailsrecpy{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: left;
+    font-size: 14pt;
+    color: #004f9e;
+    font-family: 'roboto';
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+
+  .btmdetails{
+    margin-top: 30px;
+  }
+
+  .cnclere{
+    width: 230px;
+    height: 35px;
+    font-weight: 600;
+    font-size: 15pt;
+    background-color: red;
+    color: #fff;
+    padding: 3px;
+    border-radius: 20px;
+    margin-top: 400px;
+    margin-left: -270px;
+    cursor: pointer;
+  }
+  .cnclere:hover{
+    opacity: 0.6;
+  }

@@ -1,0 +1,94 @@
+
+.prf{
+   align-self: flex-start;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.welcomemm{
+  
+    font-size: 16pt;
+    font-weight: 500;
+    text-align: left;
+    color: #023C75;
+    opacity: 0.7;
+
+}
+.profileconet{
+    padding: 20px;
+    margin: 20px;
+    height: 560px;
+    width: 900px;
+    font-family: 'Roboto';
+    justify-content: space-between;
+}
+.counts{
+  
+    text-align: left;
+   
+}
+.loginnanmee{
+    text-transform: capitalize;
+    font-size: 20pt;
+    font-weight: 600;
+margin-top: -10px;
+    text-align: left;
+    color: #023C75;
+
+}
+
+.apiimg{
+    width: 400px;
+    height: 400px;
+    margin-top: 40px;
+}
+
+.tab1{
+    width: 330px;
+    height: 50px;
+    padding-left:20px ;
+    font-size: 25pt;
+    border-radius: 15px;
+    border-width: 1px;
+    background-color: #bddeffa8;
+    font-weight: 600;
+    color: rgb(89, 89, 89);
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+
+}
+.jhjhhj{
+    margin-top: 40px;
+}
+.ihhi{
+    font-size: 15pt;margin-top: 10px;
+    margin-left: 20px;
+
+}
+
+.vbaggg{
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.blucircle{
+    height: 20px;
+    width: 20px;
+    border-radius: 20px;
+    background-color: #7A8FE6;
+    margin: 10px;
+}
+.graycircle{
+    height: 20px;
+    width: 20px;
+    margin: 10px;
+
+    border-radius: 20px;
+    background-color: #cecece;
+}
+.hhhjxe{
+    font-size: 11pt;
+    font-weight: 500;
+    margin-top: 10px;
+}

@@ -1,0 +1,143 @@
+.createapontmentcon{
+    padding-left: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 770px;
+    height: 350px;
+    background-color: #fff;
+    border-radius: 20px;
+    font-family: 'roboto';
+
+}
+.formtop{
+    justify-content: space-between;
+}
+.formtitleapo{
+    font-size: 20pt;
+    font-weight: 600;
+    color: #3F3B7A;
+    margin: 20px 10px 20px 20px;
+
+}
+.titleaponewtitle{
+    text-align: left;
+    margin-left: 5px;
+    color: #858CAD;
+    font-size: 11pt;
+    font-weight: 500;
+}
+.titleaponew{
+    width: 70px;
+    border-radius: 10px;
+    height: 35px;
+    border-style: solid;
+    color: #858CAD;
+    font-size: 500;
+    font-size: 12pt;
+    border-width: 2px;
+    border-color: #858CAD;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+
+.apointformcon{
+    padding: 20px;
+    padding-left: 20px;
+}
+.fnameaponewtitle{
+    text-align: left;
+    margin-left: 5px;
+    color: #858CAD;
+    font-size: 11pt;
+    font-weight: 500;
+
+}
+.fnameeaponew{
+    width: 200px;
+    border-radius: 10px;
+    height: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #858CAD;
+    margin-top: 5px;
+    padding-left: 10px;
+    font-weight: 500;
+    font-size: 12pt;
+}
+
+.fstrowtick{
+    color: green;
+    border-style:none ;
+    margin: 25px;
+
+}
+
+.fstrowerr{
+    color: rgb(255, 136, 0);
+    border-style:none ;
+    margin: 25px;
+    margin-left: -10px;
+    
+    
+
+}
+
+
+.validateerrorname{
+    margin-top: 28px;
+    margin-left: -20px;
+    font-weight: 500;
+    font-size: 11pt;
+    color: rgb(255, 136, 0);
+    font-family: 'roboto';
+    text-align: left;
+
+
+}
+
+.dateselectapo{
+    width: 115px;
+    border-radius: 10px;
+    height: 34px;
+    border-style: solid;
+    color: #858CAD;
+    font-size: 500;
+    font-size: 12pt;
+    border-width: 2px;
+    border-color: #858CAD;
+    margin-top: 5px;
+    padding-left: 10px;
+    font-family: 'roboto';
+
+}
+.adrseaponew{
+    padding-top: 2px;
+    width: 372px;
+    border-radius: 10px;
+    height: 30px;
+    border-style: solid;
+    color: #858CAD;
+    font-size: 500;
+    font-size: 12pt;
+    border-width: 2px;
+    border-color: #858CAD;
+    margin-top: 5px;
+    padding-left: 10px;
+    font-family: 'roboto';
+}
+
+.teleselectapo{
+    width: 115px;
+    border-radius: 10px;
+    height: 30px;
+    border-style: solid;
+    color: #858CAD;
+    font-size: 500;
+    font-size: 12pt;
+    border-width: 2px;
+    border-color: #858CAD;
+    margin-top: 5px;
+    padding-left: 10px;
+    font-family: 'roboto';
+
+}

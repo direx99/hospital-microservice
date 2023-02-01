@@ -1,0 +1,80 @@
+.loginformcontainer {
+  align-items: center;
+  padding: 20px;
+  font-family: "roboto";
+}
+
+.loginformbox {
+  width: 500px;
+  margin-left: 200px;
+}
+
+.usernameinppp {
+  font-size: 15pt;
+  text-align: left;
+  margin-bottom: -20px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-bottom: -14px;
+  font-weight: 500;
+}
+
+.inputnob {
+  width: 300px;
+  height: 40px;
+  border-radius: 15px;
+  border-color: #000;
+  border-width: 2px;
+  border-style: solid;
+  padding: 20px;
+  font-size: 14pt;
+}
+.btntosubmit {
+  padding: 1px;
+  margin-top: 20px;
+  margin-left: 200px;
+  width: 100px;
+  height: 30px;
+  height: 30px;
+  border-radius: 55px;
+  background-color: #023c75;
+  font-size: 14pt;
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+}
+.btntosubmit:hover,
+.btntosuppt:hover {
+  opacity: 0.6;
+}
+
+.errmsggg {
+  font-size: 12pt;
+  text-align: left;
+  margin-top: 20px;
+  font-weight: 500;
+  color: red;
+}
+.btntosuppt {
+  padding: 1px;
+  margin-top: 20px;
+  width: 200px;
+  height: 30px;
+  height: 30px;
+  border-radius: 55px;
+  background-color: #023c75;
+  font-size: 14pt;
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.signuptttle {
+  font-size: 12pt;
+  text-align: left;
+  margin-top: 20px;
+  font-weight: 500;
+  color: #023c75;
+  margin-bottom: -10px;
+  margin-top: 50px;
+}

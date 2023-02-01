@@ -1,0 +1,105 @@
+.alldocapo {
+  width: 400px;
+  margin: 40px;
+  height: 520px;
+  padding: 20px;
+  font-family: 'roboto';
+  background-color: #fff;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+    margin-right: 0px;
+}
+
+.docsearchbar {
+  width: 80%;
+  height: 27px;
+  border-style: none;
+  align-self: flex-start;
+  text-align: left;
+  font-size: 12pt;
+  color: #7b7d86;
+  margin-top: 3px
+}
+
+.docsearchbarcon {
+  width: 200px;
+  height: 33px;
+  border-radius: 20px;
+  border-color: black;
+  border-style: so;
+  text-align: left;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
+
+.docsearchbar:focus,
+.specialselect:focus {
+  outline: none !important;
+  border-style: none;
+  font-family: 'roboto';
+  font-weight: 500;
+  
+}
+.specialselectcon {
+  margin-left: 20px;
+  width: 140px;
+  height: 33px;
+  border-radius: 20px;
+  background-color: #fff;
+  border-color: black;
+  border-style: none;
+  text-align: left;
+  padding-left: 15px;
+}
+.specialselect {
+  width: 110px;
+  height: 27px;
+  border-style: none;
+  background-color: rgb(255, 255, 255);
+  align-self: flex-start;
+  text-align: left;
+  font-size: 12pt;
+  color: #7b7d86;
+  margin-top: 3px
+
+}
+
+.resultdoctorcard {
+  margin-top: 10px;
+  border-radius: 10px;
+  width: 360px;
+  height: 50px;
+  justify-content: center;
+}
+
+.docotoprofileicon {
+  color: #000;
+  margin-left: 10px;
+  margin-top: 3px;
+}
+.doctordataname {
+  font-size: 15pt;
+  font-weight: 500;
+  margin-left: 10px;
+  text-align: left;
+}
+
+.doctordataspecial {
+  text-align: left;
+  margin-left: 10px;
+  color: #7b7d86;
+  font-size: 10pt;
+  font-weight: 500;
+  margin-top: -5px;
+}
+
+.serchicondovtor {
+  margin: 4px;
+  margin-right: 5px;
+  color: #c6c6c7;
+}
+.docliststack {
+  max-height: 415px;
+  overflow: scroll;
+  scroll-behavior: inherit;
+}

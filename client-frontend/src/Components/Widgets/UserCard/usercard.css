@@ -1,0 +1,126 @@
+
+.usercard{
+    padding-right: 40px;
+    height: 800px;
+    padding-left: 120px;
+    padding-top: 25px;
+    
+
+
+}
+.rightsidebar{
+    width: 240px;
+    height: 600px;
+    background-color:#fff;
+    border-radius: 40px 0px 0px 40px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+align-items: center;
+
+}
+.leftsideba{
+    width: 940px;
+    height: 600px;
+    background-color:#fff;
+    align-items: center;
+    border-radius: 0px 40px 40px 0px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+
+
+}
+.usercardcontainer{
+    width: 300px;
+    height: 600px;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+.userqr{
+    padding: 20px;
+    
+}
+.qr-hospitalname{
+    text-align: left;
+    font-size: 30pt;
+    font-weight: 700;
+    color: #080E40;
+}
+
+.qr-hospitalname-sub{
+    margin-top: -15px;
+    text-align: left;
+    font-size: 20pt;
+    font-weight: 700;
+    color: #080E40;
+    text-transform: capitalize;
+
+}
+
+.usercard-fname{
+    text-align: justify;
+    font-size: 20pt;
+    font-weight: 700;
+    margin-top: -10px;
+    text-transform: capitalize;
+
+}
+.usercard-lname{
+    text-align: justify;
+    font-size: 16pt;
+    font-weight: 700;
+    margin-top: -10px;
+    text-transform: capitalize;
+
+}
+
+.userImage{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #b0c0ff;
+    
+    margin-top: 30px;
+
+}
+.usernameprofile{
+    font-size: 20pt;
+    text-align: left;
+    margin-top: 30px;
+    font-weight: 600;
+    color: #080E40;
+    text-transform: capitalize;
+
+
+}
+.lastusernameprofile{
+    font-size: 16pt;
+    text-align: left;
+    margin-top: -10px;
+    font-weight: 600;
+    color: #7283c6;
+    text-transform: capitalize;
+
+
+}
+.option1{margin-top: -3px;
+    font-size: 14pt;
+}
+.opstackk{
+margin-top: 100px;
+}
+.option1stt{
+    width: 200px;
+    height: 35px;
+    font-weight: 500;
+    color: #5f5f5f;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    cursor:pointer;
+}
+.option1stt:hover{
+    background-color: #ebefff;
+}
