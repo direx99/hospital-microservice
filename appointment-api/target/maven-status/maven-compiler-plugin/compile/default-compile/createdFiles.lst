@@ -1,0 +1,5 @@
+com/example/appointmentapi/Appointment.class
+com/example/appointmentapi/AppointmentService.class
+com/example/appointmentapi/AppointmentRepository.class
+com/example/appointmentapi/AppointmentApiApplication.class
+com/example/appointmentapi/AppointmentControl.class
