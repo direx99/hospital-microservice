@@ -1,0 +1,5 @@
+com/example/patientapi/Patient.class
+com/example/patientapi/PatientApiApplication.class
+com/example/patientapi/PatientRepository.class
+com/example/patientapi/PatientController.class
+com/example/patientapi/PatientService.class
